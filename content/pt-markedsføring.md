@@ -1,6 +1,6 @@
 ---
-title: "PT:Sales"
-date: 2018-02-08T17:40:50+01:00
+title: "PT:Markedsføring"
+date: 2018-03-05T10:24:27+01:00
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 col-lg-8 mx-auto">
             <div class="heading text-center mt-5 mb-2">
-                <h1>PT:Sales</h1>
+                <h1>PT:Markedsføring</h1>
             </div>
         </div>
     </div>

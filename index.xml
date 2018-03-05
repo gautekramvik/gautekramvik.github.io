@@ -6,10 +6,23 @@
     <description>Recent content on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 09:10:36 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 10:24:27 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PT:Markedsføring</title>
+      <link>https://gautekramvik.github.io/pt-markedsf%C3%B8ring/</link>
+      <pubDate>Mon, 05 Mar 2018 10:24:27 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pt-markedsf%C3%B8ring/</guid>
+      <description>PT:Markedsføring     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
+Appen vil være produksjonsklar innen en uke.
+Priser fra 30 000,-    Produksjonsklar innen en uke
+Rimelig startpunkt for en kunde i modningsprosess
+Start enkelt og utvid etterhvert som din organisasjon modnes</description>
+    </item>
     
     <item>
       <title>Opplev GDPR i praksis ved bruk av Microsoft Office 365</title>
@@ -56,12 +69,12 @@ Uansett om dine data finnes på et filområde eller på en SharePointserver vil 
     </item>
     
     <item>
-      <title>Pt Sales</title>
+      <title>PT:Sales</title>
       <link>https://gautekramvik.github.io/pt-sales/</link>
       <pubDate>Thu, 08 Feb 2018 17:40:50 +0100</pubDate>
       
       <guid>https://gautekramvik.github.io/pt-sales/</guid>
-      <description>PT Sales     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
+      <description>PT:Sales     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
 Appen vil være produksjonsklar innen en uke.
 Priser fra 30 000,-    Produksjonsklar innen en uke
 Rimelig startpunkt for en kunde i modningsprosess
@@ -218,7 +231,7 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       
       <guid>https://gautekramvik.github.io/crm/</guid>
       <description>CRM  Kunder for livet Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat
-    Om CRM Hvorfor oss? -- Kontakt oss    Dynamics 365 salg  Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt.</description>
+    Om CRM Hvorfor oss? -- Kontakt oss PT:Sales PT:Markedsføring    Dynamics 365 salg  Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt.</description>
     </item>
     
     <item>
