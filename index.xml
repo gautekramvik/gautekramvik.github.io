@@ -6,10 +6,20 @@
     <description>Recent content on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Mar 2018 10:24:27 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 10:33:47 +0100</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CRM-Konsepter</title>
+      <link>https://gautekramvik.github.io/crm-konsepter/</link>
+      <pubDate>Mon, 05 Mar 2018 10:33:47 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/crm-konsepter/</guid>
+      <description>CRM-konsepter     Her kan det stå en liten introduksjonstekst til hva CRM-konsepter er, forfor det pakketeres som konsepter, hvorfor Salg og hvorfor Markedsføring, og til slutt kanskje noe annet smort.
+   PT:Salg  PT:Markedsføring      </description>
+    </item>
     
     <item>
       <title>PT:Markedsføring</title>
@@ -18,6 +28,19 @@
       
       <guid>https://gautekramvik.github.io/pt-markedsf%C3%B8ring/</guid>
       <description>PT:Markedsføring     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
+Appen vil være produksjonsklar innen en uke.
+Priser fra 30 000,-    Produksjonsklar innen en uke
+Rimelig startpunkt for en kunde i modningsprosess
+Start enkelt og utvid etterhvert som din organisasjon modnes</description>
+    </item>
+    
+    <item>
+      <title>PT:Salg</title>
+      <link>https://gautekramvik.github.io/pt-salg/</link>
+      <pubDate>Mon, 05 Mar 2018 10:24:27 +0100</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pt-salg/</guid>
+      <description>PT:Salg     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
 Appen vil være produksjonsklar innen en uke.
 Priser fra 30 000,-    Produksjonsklar innen en uke
 Rimelig startpunkt for en kunde i modningsprosess
@@ -66,19 +89,6 @@ Uansett om dine data finnes på et filområde eller på en SharePointserver vil 
       
       <guid>https://gautekramvik.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
       <description>7 februar var vi i Point Taken verter for det kvartalsvise møtet i Norwegian Office 365 Community. Norwegian Office 365 Community er et uavhengig fagmiljø for utviklere, IT pro, forretnings- og sluttbrukere der målet er å dele kunnskap på tvers av produktene. Foredragsholdere denne kvelden var Vesa Juvonen, Senior Program Manager i Microsoft som snakket om Microsofts roadmap for SharePoint, og Chris Givens, Microsoft MVP og sikkerhetsarkitekt i Soliance, som snakket om GDPR og Azure, fra et teknisk ståsted.</description>
-    </item>
-    
-    <item>
-      <title>PT:Sales</title>
-      <link>https://gautekramvik.github.io/pt-sales/</link>
-      <pubDate>Thu, 08 Feb 2018 17:40:50 +0100</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pt-sales/</guid>
-      <description>PT:Sales     Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.
-Appen vil være produksjonsklar innen en uke.
-Priser fra 30 000,-    Produksjonsklar innen en uke
-Rimelig startpunkt for en kunde i modningsprosess
-Start enkelt og utvid etterhvert som din organisasjon modnes</description>
     </item>
     
     <item>
@@ -231,7 +241,7 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       
       <guid>https://gautekramvik.github.io/crm/</guid>
       <description>CRM  Kunder for livet Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat
-    Om CRM Hvorfor oss? -- Kontakt oss PT:Sales PT:Markedsføring    Dynamics 365 salg  Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt.</description>
+    Om CRM Hvorfor oss? -- Kontakt oss Konsepter    Dynamics 365 salg  Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt.</description>
     </item>
     
     <item>

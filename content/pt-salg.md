@@ -1,6 +1,6 @@
 ---
-title: "PT:Sales"
-date: 2018-02-08T17:40:50+01:00
+title: "PT:Salg"
+date: 2018-03-05T10:24:27+01:00
 draft: false
 ---
 
@@ -8,13 +8,13 @@ draft: false
     <div class="row">
         <div class="col-md-12 col-lg-8 mx-auto">
             <div class="heading text-center mt-5 mb-2">
-                <h1>PT:Sales</h1>
+                <h1>PT:Salg</h1>
             </div>
         </div>
     </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
     <div class="row no-gutters">
         <div class="col-md-12 col-lg-8 mx-auto p-4">
             <p class="lead">Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.</p>
@@ -47,4 +47,4 @@ draft: false
             </div>
         </div>              
     </div>
-</div>
+</div> -->

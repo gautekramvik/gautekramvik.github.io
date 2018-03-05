@@ -14,7 +14,7 @@ draft: false
     </div>
 </div>
 
-<div class="container">
+<!-- <div class="container">
     <div class="row no-gutters">
         <div class="col-md-12 col-lg-8 mx-auto p-4">
             <p class="lead">Vi i Point Taken har utviklet en forenklet CRM app som inneholder kun de komponentene du trenger i starten for å få en oversikt. Du kan enkelt bygge ut løsningen etterhvert som din organisasjon modnes.</p>
@@ -47,4 +47,4 @@ draft: false
             </div>
         </div>              
     </div>
-</div>
+</div> -->

@@ -21,8 +21,7 @@ draft: false
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om CRM</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pt-sales/">PT:Sales</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pt-markedsføring/">PT:Markedsføring</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/crm-konsepter/">Konsepter</a></h4></div>
     </div>
 </div>
 

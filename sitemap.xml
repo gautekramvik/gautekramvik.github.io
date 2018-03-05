@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/crm-konsepter/</loc>
+    <lastmod>2018-03-05T10:33:47+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pt-markedsf%C3%B8ring/</loc>
+    <lastmod>2018-03-05T10:24:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/pt-salg/</loc>
     <lastmod>2018-03-05T10:24:27+01:00</lastmod>
   </url>
   
@@ -25,11 +35,6 @@
   <url>
     <loc>https://gautekramvik.github.io/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</loc>
     <lastmod>2018-02-09T08:58:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gautekramvik.github.io/pt-sales/</loc>
-    <lastmod>2018-02-08T17:40:50+01:00</lastmod>
   </url>
   
   <url>
@@ -197,7 +202,7 @@
   
   <url>
     <loc>https://gautekramvik.github.io/</loc>
-    <lastmod>2018-03-05T10:24:27+01:00</lastmod>
+    <lastmod>2018-03-05T10:33:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
