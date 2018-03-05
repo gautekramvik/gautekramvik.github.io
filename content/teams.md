@@ -1,0 +1,123 @@
+---
+title: "Teams"
+date: 2018-01-02T13:59:08+01:00
+draft: false
+---
+<div class="container">
+    <div class="row no-gutters">
+        <div class="col-md-12 col-lg-6 p-4 mt-4">
+            <div class="heading">
+                <h1>Teams</h1>
+            </div>
+            <h3>Effektiv og fleksibel samhandling på tvers av bedriften</h3>
+            <p>Med Teams kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
+        </div>    
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams1.png" alt="Teams" /></div>
+    </div>
+</div>
+
+<div class="container-fluid bg-white mb-4">
+    <div class="row content-menu text-center mx-auto">
+        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Teams</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams3.jpg" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6 p-4">
+                    <div class="heading">
+                        <h2>Samtaler for grupper</h2>
+                    </div>
+                    <p>Teams gir samtaler med historikk som sørger for at alle er engasjert og informert. Gruppesamtaler er synlig for hele gruppen men gir også mulighet for private samtaler. Et rikt bibliotek av emojis og GIF’er, gir brukeren en personlig måte å uttrykke seg på. Teams støtter skrift, lyd og video. I samtalene kan også hente oppdateringer fra andre systemer. Vi har testet med oppdateringer fra CRM og Trello. Teams kommer med et rikt bibliotek av slike koblinger, der også Webhooks er støttet. Det gir mulighet til å knytte seg til nær sagt hva som helst av kilder.</p>
+                    <!-- <a class="btn btn-primary btn-full" href="/kurs" role="button">Ta kontakt</a> -->
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6 p4">
+                    <div class="heading">
+                        <h2>En sentral for samhandling</h2>
+                    </div>
+                    <p>Teams samler verktøy fra Office 365 på en enkel og lettfattelig måte. Man kan starte lyd- og videomøter og jobbe med Office-dokumenter direkte i Teams. Teams kan inneholde de verktøy og informasjonskilder virksomheten har behov for.</p>
+                </div>            
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams2.jpg" alt="Teams" /></div>
+            </div>
+        </div>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teams4.png" alt="Teams" /></div>
+                <div class="col-md-12 col-lg-6 p-4">
+                    <div class="heading">
+                        <h2>Kan tilpasses hver gruppe</h2>
+                    </div>
+                    <p>Hver avdeling eller team er unike. Derfor tilbyr Teams muligheten til å tilpasse opplevelsen til å passe enhver avdeling eller gruppe. Hver gruppe kan ha egne kanaler og faner som kan inneholde for eksempel SharePoint dokumentbibliotek, notatbøker, oppgavekort (Planner) og andre programmer. Man kan også inkludere annen funksjonalitet utenfor Office 365. Her finnes det mulgheter for å knytte inn Dynamics 365 eller andre tjenester. Point Takens egne prosjekter er alle satt opp med chat, filområde, notatbok, oppgavekort og tall fra timeføring via PowerBI, samt kundeinformasjon fra CRM i Dynamics 365.</p>
+                </div>
+            </div>
+        </div>               
+    </div>
+</div>
+
+<div class="container" id="referanse">
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
+            <blockquote class="blockquote text-center">
+            <p class="mb-0">Everything is awesome when you're part of a team!</p>
+            </blockquote>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/thorbjorn_scene.jpg" alt="Thorbjørn" />
+                                                <img class="img-fluid" src="/img/mvp.png" alt="MVP" /></div>
+                <div class="col-md-12 col-lg-6" style="padding:2rem">
+                    <div class="heading">
+                        <h2>Konsulenter med lang erfaring</h2>
+                    </div>
+                    <p>Thorbjørn Værp har mer enn 20 års arbeidserfaring fra IT bransjen. De sist 10 årene har han jobbet med fult fokus på Office 365, MS Teams og SharePoint. Han er utnevnt til MVP (Most Valuable Professional) på Office Server and Services av Microsoft.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 content-case mt-4 mb-4">
+            <div class="row no-gutters">
+                <div class="col-md-12 col-lg-8 p-4">
+                    <div class="heading">
+                        <h2>Kjenner du deg igjen? Ta kontakt!</h2>
+                    </div>
+                    <ul>
+                    <li>Jeg er interessert i Teams, og ønsker å lære mer om det grunnleggende.</li>
+                    <br>
+                    <li>Jeg har allerede Teams, og ønsker hjelp til å implementere løsningen.</li>
+                    <br>
+                    <li>Jeg har allerede Teams, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <br>
+                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Teams på best mulig måte.</li>
+                    </ul>
+                    <div class="col">
+                        <a class="btn btn-primary btn-full" href="/contact/" role="button">Ta kontakt</a>
+                    </div>                    
+                </div>            
+                <div class="col-sm-6 col-md-4 col-lg-4">
+                    <div class="card personkort text-center no-hover mt-5">
+                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn-round.jpg" alt="Thorbjørn Værp">
+                        <div class="card-body">
+                            <h4 class="card-title">Thorbjørn Værp</h4>
+                            <p class="card-subtitle mb-2">MVP Office Server and Services</p>
+                            <p class="card-text">Tlf: 90 58 36 65</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>             
+    </div>
+</div>
