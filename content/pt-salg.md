@@ -54,7 +54,12 @@ draft: false
     </div>
     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-md-6">
+            <p class="lead">Forretningsforbindelser er virksomheter du har et forhold til. På kortet til  forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
+        </div>
+        <div class="col-md-6">
+            <img class="img-fluid" src="/img/pt-salg-forretningsforbindelser.png" alt="Forretningsforbindelser" />
+        </div>
       </div>
     </div>
   </div>

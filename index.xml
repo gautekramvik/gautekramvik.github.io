@@ -18,7 +18,7 @@
       
       <guid>https://gautekramvik.github.io/crm-konsepter/</guid>
       <description>CRM-konsepter     Her kan det stå en liten introduksjonstekst til hva CRM-konsepter er, forfor det pakketeres som konsepter, hvorfor Salg og hvorfor Markedsføring, og til slutt kanskje noe annet smort.
-   PT:Salg  PT:Markedsføring      </description>
+    PT:Salg   PT:Markedsføring      </description>
     </item>
     
     <item>
@@ -47,7 +47,7 @@ Få oversikt over bedriftens salgsmuligheter fordelt på fase
 Dine salgsmuligheter
 Se listen over dine salgsmuligheter for rask navigering og endring
 Dine oppgaver
-Se listen over dine gjøremål (For eksempel Telefonsamtaler eller oppgaver)      Forretningsforbindelser    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid.</description>
+Se listen over dine gjøremål (For eksempel Telefonsamtaler eller oppgaver)      Forretningsforbindelser    Forretningsforbindelser er virksomheter du har et forhold til.</description>
     </item>
     
     <item>
@@ -243,7 +243,7 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       <pubDate>Mon, 11 Dec 2017 13:40:09 +0100</pubDate>
       
       <guid>https://gautekramvik.github.io/crm/</guid>
-      <description>CRM  Kunder for livet Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat
+      <description>CRM  Kunder for livet Når du kombinerer data om salg, service og markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved portal, social Engagement og chat
     Om CRM Hvorfor oss? -- Kontakt oss Konsepter    Dynamics 365 salg  Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt.</description>
     </item>
     

@@ -27,11 +27,11 @@ draft: false
         <div class="col-md-12 content-case">
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-6 p-5 p-4 text-center">
-                    <img class="img-fluid" src="/img/crm1.png" alt="CRM" />
+                    <a href="/pt-salg/"><img class="img-fluid" src="/img/crm1.png" alt="CRM" /></a>
                     <a class="btn btn-primary btn-full mt-4" href="/pt-salg/" role="button">PT:Salg</a>
                 </div>            
                 <div class="col-md-12 col-lg-6 p-5 p-4 text-center">
-                    <img class="img-fluid" src="/img/crm2.jpg" alt="CRM" />
+                    <a href="/pt-markedsføring/"><img class="img-fluid" src="/img/crm2.jpg" alt="CRM" /></a>
                     <a class="btn btn-primary btn-full mt-4" href="/pt-markedsføring/" role="button">PT:Markedsføring</a>
                 </div>
             </div>

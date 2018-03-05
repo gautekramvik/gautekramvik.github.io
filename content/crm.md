@@ -10,7 +10,7 @@ draft: false
                 <h1>CRM</h1>
             </div>
             <h3>Kunder for livet</h3>
-            <p>Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat</p>
+            <p>Når du kombinerer data om salg, service og markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved portal, social Engagement og chat</p>
         </div>    
         <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/crm1.png" alt="CRM" /></div>
     </div>
@@ -35,7 +35,7 @@ draft: false
                         <h2>Dynamics 365 salg</h2>
                     </div>
                     <p>Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt. Ved å sette salg i system, minimerer du tilfeldigheten av å lande nye kunder. Repeter en vinnende oppskrift gang på gang slik at du øker kundemassen og tilfredsheten. Når kunden opplever et ryddig salg, vil de starte kundereisen med en større trygghet til deg som leverandør.</p>
-                    <a class="btn btn-primary btn-full" href="/pt-sales/" role="button">Les mer om PT:Sales</a>
+                    <a class="btn btn-primary btn-full" href="/pt-salg/" role="button">Les mer om PT:Salg</a>
                 </div>
             </div>
         </div>
