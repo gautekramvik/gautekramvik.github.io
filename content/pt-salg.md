@@ -6,11 +6,12 @@ draft: false
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12 col-lg-8 mx-auto">
+        <div class="col-md-12 col-lg-8 mx-auto m-4">
             <div class="heading text-center mt-5 mb-2">
                 <h1>PT:Salg</h1>
             </div>
-            <p class="lead m-5">Vakker og inspirerende tekst om hvordan PT:Salg kan forandre livet ditt til det bedre.</p>
+            <p class="lead">P:T Salg er markedets enkleste salgskonsept basert på Dynamics 365</p>
+            <p>(450,- pr bruker mnd)</p>
         </div>
     </div>
 </div>
@@ -22,15 +23,15 @@ draft: false
   <div class="card">
     <div class="card-header" id="heading1">
       <h5 class="mb-0">
-        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
           Instrumentbord
         </button>
       </h5>
     </div>
-    <div id="collapse1" class="collapse show" aria-labelledby="heading1" data-parent="#accordion">
+    <div id="collapse1" class="collapse" aria-labelledby="heading1" data-parent="#accordion">
       <div class="card-body row">
-        <div class="col-md-6">
-            <p class="lead">Instrumentbordet gir deg en rask oversikt over hva som rører seg på salg og deles inn i:</p>
+        <div class="col-12">
+            <p>Instrumentbordet gir deg en rask oversikt over hva som rører seg på salg og deles inn i:</p>
             <strong>Salgspipeline</strong><br>
             <p>Få oversikt over bedriftens salgsmuligheter fordelt på fase</p>
             <strong>Dine salgsmuligheter</strong><br>
@@ -38,7 +39,7 @@ draft: false
             <strong>Dine oppgaver</strong><br>
             <p>Se listen over dine gjøremål (For eksempel Telefonsamtaler eller oppgaver)<p>       
         </div>
-        <div class="col-md-6">
+        <div class="col-12">
             <img class="img-fluid" src="/img/pt-salg-instrumentbord.png" alt="Instrumentbord" />
         </div>
       </div>
@@ -54,10 +55,10 @@ draft: false
     </div>
     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
       <div class="card-body row">
-        <div class="col-md-6">
-            <p class="lead">Forretningsforbindelser er virksomheter du har et forhold til. På kortet til  forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
+        <div class="col-12">
+            <p>Forretningsforbindelser er virksomheter du har et forhold til. På kortet til  forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-12">
             <img class="img-fluid" src="/img/pt-salg-forretningsforbindelser.png" alt="Forretningsforbindelser" />
         </div>
       </div>
@@ -73,11 +74,11 @@ draft: false
     </div>
     <div id="collapse3" class="collapse" aria-labelledby="heading3" data-parent="#accordion">
       <div class="card-body row">
-        <div class="col-md-6">
-            <p class="lead">På kontaktkortet får du enkelt oversikt over de mest relevante data om kontaktpersonen.</p>
+        <div class="col-12">
+            <p>På kontaktkortet får du enkelt oversikt over de mest relevante data om kontaktpersonen.</p>
             <p>I tidslinjen får du en full oversikt over alle  aktivitetene denne personen er involvert i.</p>      
         </div>
-        <div class="col-md-6">
+        <div class="col-12">
             <img class="img-fluid" src="/img/pt-salg-kontakter.png" alt="Instrumentbord" />
         </div>
       </div>
@@ -93,7 +94,13 @@ draft: false
     </div>
     <div id="collapse4" class="collapse" aria-labelledby="heading4" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>PT:Salg gjør registrering av salgsmuligheter så enkel som mulig. Start med den informasjonen som er mest relevant og utvid ved behov. Alt selger må gjøre er å fylle ut kunde, verdi, dato og fase.</p>
+            <p>Som selger får du hjelp fra systemet til å følge med alle salgene dine. Som salgsleder kan du få oversikt over hvilke faser forskjellige selgere bruker lengst tid i.</p>      
+        </div>
+        <div class="col-12">
+            <img class="img-fluid" src="/img/pt-salg-salgsmulighet.PNG" alt="Salgsmulighet" />
+        </div>        
       </div>
     </div>
   </div>
@@ -107,7 +114,13 @@ draft: false
     </div>
     <div id="collapse5" class="collapse" aria-labelledby="heading5" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>For å gjøre registreringen av nye kunder så enkel som mulig, har vi koblet oss mot BRREG for innhenting av data.</p>
+            <p>Søk etter organisasjonsnummer eller navn og velg fra listen som returneres.</p>
+            <p>Vi vet at kundedata er ferskvare og vasker daglig all data utenom arbeidstid, slik at du alltid har oppdatert informasjon om din kunde.</p>   
+        </div>
+        <div class="col-12">
+        </div> 
       </div>
     </div>
   </div>
@@ -115,13 +128,19 @@ draft: false
     <div class="card-header" id="heading6">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-         KontakSamhandling med Microsoft Teams
+         Samhandling med Microsoft Teams
         </button>
       </h5>
     </div>
     <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>PT Salg har laget en smart kobling til Teams som gjør at avdelinger kan samhandle på tvers. Det er ikke alle som kommer til å ha tilgang til CRM, men det kan være viktig å dele kunnskapen om hva som skjer.</p>
+            <p>Hver kunde i CRM får et eget Team, og hver salgsmulighet får en kanal under kunden.</p>
+            <p>CRM og Teams deler samme mappe for dokumenter. På denne måten slipper man å være bekymret for at man lagret dokumentene på riktig sted.</p>   
+        </div>
+        <div class="col-12">
+        </div>
       </div>
     </div>
   </div>
@@ -135,7 +154,12 @@ draft: false
     </div>
     <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>Selgere er mye på farten, og trenger derfor mulighet til å registrere informasjon i CRM på flere plattformer.</p>
+            <p>PT : Salg er tilgjengelig via nettleser, på mobil og via app. Dette gjør at du alltid har CRM tilgjengelig og kan oppdatere informasjon om kunder eller salg.</p> 
+        </div>
+        <div class="col-12">
+        </div>
       </div>
     </div>
   </div>
@@ -149,7 +173,12 @@ draft: false
     </div>
     <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>Et viktig moment med PT : Salg er koblingen mot Outlook. Via Outlook kan du spore aktiviteter, e-post og opprette nye kontakter og salgsmuligheter basert på e-post.</p>  
+        </div>
+        <div class="col-12">
+            <img class="img-fluid" src="/img/pt-salg-outlook.png" alt="Outlook" />
+        </div>     
       </div>
     </div>
   </div>
@@ -163,7 +192,15 @@ draft: false
     </div>
     <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>Få oversikt over brukeradopsjonen i bedriften.</p>
+            <p>Hvem bruker systemet?</p>
+            <p>Hvordan logger de seg på?</p>
+            <p>Hvor ofte gjøres endringer eller opprettes nye oppføringer?</p>                            
+        </div>
+        <div class="col-12">
+            <img class="img-fluid" src="/img/pt-salg-dashboard.png" alt="Brukeradopsjon" />
+        </div>  
       </div>
     </div>
   </div>
@@ -177,7 +214,11 @@ draft: false
     </div>
     <div id="collapse10" class="collapse" aria-labelledby="heading10" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>I salg er det viktig å kjenne sine tidstyver. Når man registrerer salgsmulighetene i Dynamics 365 får du oversikt over hvilke faser dine salgsmuligheter er lengst registrert i. Dette gjør at du som selger eller leder enkelt kan få oversikt over hvilke faser salgsmulighetene er lengst registrert i og dermed kan gjøre endringer i måten du jobber på.</p>                     
+        </div>
+        <div class="col-12">
+        </div> 
       </div>
     </div>
   </div>
@@ -191,7 +232,11 @@ draft: false
     </div>
     <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
       <div class="card-body row">
-        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+        <div class="col-12">
+            <p>Inkludert i pakken PT : Salg, er 1 dag opplæring hos kunden. Under denne dagen vil vi gjennomgå smarte måter å bruke systemet, samt at vi trygger alle brukere rundt bruken. Dette vil være en hands-on trening der eget system skal benyttes.</p>                     
+        </div>
+        <div class="col-12">
+        </div> 
       </div>
     </div>
   </div>                
