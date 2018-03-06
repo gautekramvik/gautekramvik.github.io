@@ -10,9 +10,32 @@ draft: false
             <div class="heading text-center mt-5 mb-2">
                 <h1>PT:Salg</h1>
             </div>
-            <p class="lead">P:T Salg er markedets enkleste salgskonsept basert på Dynamics 365</p>
-            <p>(450,- pr bruker mnd)</p>
-        </div>
+            <p class="lead">P:T Salg tilbyr en løsning du kan vokse inn i og ikke ut av.</p>
+            <p>Konseptet forenkler samhandling og er optimalisert for bedrifter inntil 25 ansatte.</p>
+            <p>Ved å kombinere styrkene mellom Office 365 og Dynamics 365 oppnår SMB kunder enterprise løsninger til en brøkdel av prisen.</p>
+            <div class="row">
+            <div class="col-12 heading text-center mt-5 mb-2">
+              <h3>Hvorfor velge P:T Salg</h3>
+            </div>
+                <div class="col-md-12 col-lg-6">
+                  <ul>
+                    <li>Oversikt over kunder og salg</li>
+                    <li>Mobil løsning</li>
+                    <li>Integrasjon Dynamics 365 og Office365</li>
+                  </ul>
+                </div>
+                <div class="col-md-12 col-lg-6">
+                  <ul>
+                    <li>Datavask</li>
+                    <li>Samhandle internt og eksternt</li>
+                    <li>Forutsigbar pris</li>
+                  </ul>
+                </div>
+                <div class="col-12 mt-4 mb-2">
+                Pris 50.000,- for konseptet og 450 per bruker per mnd.
+                </div>
+              </div>
+        </div>    
     </div>
 </div>
 
@@ -32,12 +55,14 @@ draft: false
       <div class="card-body row">
         <div class="col-12">
             <p>Instrumentbordet gir deg en rask oversikt over hva som rører seg på salg og deles inn i:</p>
-            <strong>Salgspipeline</strong><br>
+            <strong>Salgspipeline</strong>
             <p>Få oversikt over bedriftens salgsmuligheter fordelt på fase</p>
-            <strong>Dine salgsmuligheter</strong><br>
+            <strong>Dine salgsmuligheter</strong>
             <p>Se listen over dine salgsmuligheter for rask navigering og endring</p>
-            <strong>Dine oppgaver</strong><br>
-            <p>Se listen over dine gjøremål (For eksempel Telefonsamtaler eller oppgaver)<p>       
+            <strong>Dine aktiviteter</strong>
+            <p>Se listen over dine gjøremål (for eksempel telefonsamtaler eller oppgaver)</p>
+            <strong>Relasjonsassistenten</strong>
+            <p>Hold oversikt over alt du burde huske, om det er salgsmuligheter, møter som kommer eller telefonsamtaler<p>
         </div>
         <div class="col-12">
             <img class="img-fluid" src="/img/pt-salg-instrumentbord.png" alt="Instrumentbord" />
@@ -56,11 +81,8 @@ draft: false
     <div id="collapse2" class="collapse" aria-labelledby="heading2" data-parent="#accordion">
       <div class="card-body row">
         <div class="col-12">
-            <p>Forretningsforbindelser er virksomheter du har et forhold til. På kortet til  forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
-        </div>
-        <div class="col-md-12">
-            <img class="img-fluid" src="/img/pt-salg-forretningsforbindelser.png" alt="Forretningsforbindelser" />
-        </div>
+            <p>Forretningsforbindelser er virksomheter du har et forhold til. På kortet til forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
+        </div> 
       </div>
     </div>
   </div>
@@ -134,12 +156,13 @@ draft: false
     </div>
     <div id="collapse6" class="collapse" aria-labelledby="heading6" data-parent="#accordion">
       <div class="card-body row">
-        <div class="col-12">
+        <div class="col-sm-12 col-md-6">
             <p>PT Salg har laget en smart kobling til Teams som gjør at avdelinger kan samhandle på tvers. Det er ikke alle som kommer til å ha tilgang til CRM, men det kan være viktig å dele kunnskapen om hva som skjer.</p>
             <p>Hver kunde i CRM får et eget Team, og hver salgsmulighet får en kanal under kunden.</p>
             <p>CRM og Teams deler samme mappe for dokumenter. På denne måten slipper man å være bekymret for at man lagret dokumentene på riktig sted.</p>   
         </div>
-        <div class="col-12">
+        <div class="col-sm-12 col-md-6">
+         <img class="img-fluid" src="/img/pt-salg-teams.png" alt="Microsoft Teams" />
         </div>
       </div>
     </div>
@@ -154,11 +177,12 @@ draft: false
     </div>
     <div id="collapse7" class="collapse" aria-labelledby="heading7" data-parent="#accordion">
       <div class="card-body row">
-        <div class="col-12">
+        <div class="col-sm-12 col-md-6">
             <p>Selgere er mye på farten, og trenger derfor mulighet til å registrere informasjon i CRM på flere plattformer.</p>
-            <p>PT : Salg er tilgjengelig via nettleser, på mobil og via app. Dette gjør at du alltid har CRM tilgjengelig og kan oppdatere informasjon om kunder eller salg.</p> 
+            <p>PT:Salg er tilgjengelig via nettleser, på mobil og via app. Dette gjør at du alltid har CRM tilgjengelig og kan oppdatere informasjon om kunder eller salg.</p> 
         </div>
-        <div class="col-12">
+        <div class="col-sm-12 col-md-6">
+        <img class="img-fluid" src="/img/pt-salg-mobil.png" alt="Mobil" />
         </div>
       </div>
     </div>
@@ -174,7 +198,7 @@ draft: false
     <div id="collapse8" class="collapse" aria-labelledby="heading8" data-parent="#accordion">
       <div class="card-body row">
         <div class="col-12">
-            <p>Et viktig moment med PT : Salg er koblingen mot Outlook. Via Outlook kan du spore aktiviteter, e-post og opprette nye kontakter og salgsmuligheter basert på e-post.</p>  
+            <p>Et viktig moment med PT:Salg er koblingen mot Outlook. Via Outlook kan du spore aktiviteter, e-post og opprette nye kontakter og salgsmuligheter basert på e-post.</p>  
         </div>
         <div class="col-12">
             <img class="img-fluid" src="/img/pt-salg-outlook.png" alt="Outlook" />
@@ -233,7 +257,7 @@ draft: false
     <div id="collapse11" class="collapse" aria-labelledby="heading11" data-parent="#accordion">
       <div class="card-body row">
         <div class="col-12">
-            <p>Inkludert i pakken PT : Salg, er 1 dag opplæring hos kunden. Under denne dagen vil vi gjennomgå smarte måter å bruke systemet, samt at vi trygger alle brukere rundt bruken. Dette vil være en hands-on trening der eget system skal benyttes.</p>                     
+            <p>Inkludert i pakken PT:Salg, er 1 dag opplæring hos kunden. Under denne dagen vil vi gjennomgå smarte måter å bruke systemet, samt at vi trygger alle brukere rundt bruken. Dette vil være en hands-on trening der eget system skal benyttes.</p>                     
         </div>
         <div class="col-12">
         </div> 
@@ -242,5 +266,5 @@ draft: false
   </div>                
 </div>
 </div>
-    </div>
+</div>
 </div>
