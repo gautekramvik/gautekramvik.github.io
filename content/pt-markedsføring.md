@@ -176,7 +176,30 @@ draft: false
         </div>     
       </div>
     </div>
-  </div>           
+  </div>
+  <div class="card">
+    <div class="card-header" id="heading9">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
+         Pris
+        </button>
+      </h5>
+    </div>
+    <div id="collapse9" class="collapse" aria-labelledby="heading9" data-parent="#accordion">
+      <div class="card-body row">
+        <div class="col-sm-12 col-md-6">
+            <p>Forutsetninger:</p>
+            <ul>
+            <li>Du har Dynamics 365</li>
+            <li>Du tegner abonnement på ClickDimensions</li>
+            </ul>
+            <p>1 dager konfigurasjon av systemet</p>
+            <p>1 dag oppsett integrasjoner</p>
+            <p>3 dag opplæring</p>  
+        </div>    
+      </div>
+    </div>
+  </div> 
 </div>
 </div>
     </div>

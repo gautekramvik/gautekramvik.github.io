@@ -589,4 +589,5 @@ footer a:hover {
   text-align: left;
   color: #292828;
   font-size: 1.25rem;
+  white-space: inherit;
 }

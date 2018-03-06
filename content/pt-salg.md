@@ -82,7 +82,10 @@ draft: false
       <div class="card-body row">
         <div class="col-12">
             <p>Forretningsforbindelser er virksomheter du har et forhold til. På kortet til forretningsforbindelsen får du oversikt over tilknyttede personer, siste salgsmuligheter og aktiviteter bedriften har vært involvert i.</p>
-        </div> 
+        </div>
+        <div class="col-12">
+            <img class="img-fluid" src="/img/pt-salg-forretningsforbindelser.png" alt="Forretningsforbindelser" />
+        </div>        
       </div>
     </div>
   </div>
@@ -263,7 +266,33 @@ draft: false
         </div> 
       </div>
     </div>
-  </div>                
+  </div>        
+    <div class="card">
+    <div class="card-header" id="heading12">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
+         Pris
+        </button>
+      </h5>
+    </div>
+    <div id="collapse12" class="collapse" aria-labelledby="heading12" data-parent="#accordion">
+      <div class="card-body row">
+        <div class="col-12">
+            <p>Forutsetninger:</p>
+            <ul>
+            <li>Du har Office 365</li>
+            <li>Installasjon av Azure function for Teams integrasjon (dette kan Point Taken bistå med)</li>
+            <li>Du tegner abonnement på Dynamics 365</li>
+            </ul>
+            <p>3 dager konfigurasjon av systemet</p>
+            <p>1 dag oppsett integrasjoner</p>
+            <p>1 dag opplæring</p>           
+        </div>
+        <div class="col-12">
+        </div> 
+      </div>
+    </div>
+  </div>         
 </div>
 </div>
 </div>
