@@ -231,7 +231,7 @@ draft: false
       </div>
     </div>
   </div>
-  <div class="card">
+  <!-- <div class="card">
     <div class="card-header" id="heading10">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
@@ -248,7 +248,7 @@ draft: false
         </div> 
       </div>
     </div>
-  </div>
+  </div> -->
   <div class="card">
     <div class="card-header" id="heading11">
       <h5 class="mb-0">
@@ -271,7 +271,7 @@ draft: false
     <div class="card-header" id="heading12">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-         Pris
+         Forutsetninger
         </button>
       </h5>
     </div>
