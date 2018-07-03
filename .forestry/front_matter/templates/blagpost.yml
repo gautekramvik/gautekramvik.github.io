@@ -1,0 +1,14 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+- type: text
+  name: text
+  label: Text
+- type: textarea
+  name: text_area
+  label: Text area
+- type: datetime
+  name: date
+  label: Date
