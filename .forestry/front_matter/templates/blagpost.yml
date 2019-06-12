@@ -12,5 +12,3 @@ fields:
 - type: datetime
   name: date
   label: Date
-pages:
-- content/blog/test-blag.md
